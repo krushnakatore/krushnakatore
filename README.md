@@ -24,7 +24,7 @@ Beside programming, I got a penchant for writing!
 
 Check out my Portfolio at {}
 
-  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/krushnakatore/krushnakatore/main/code%20(1).gif" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/krushnakatore/krushnakatore/blob/main/code.gif?raw=true" width="500" height="320" />
   
 **Talking about Personal Stuffs:**
 
@@ -35,17 +35,20 @@ Check out my Portfolio at {}
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="/.github/icons/typescript.svg"></code>
+<code><img height="20" src="/.github/icons/javascript.svg"></code>
+<code><img height="20" src="/.github/icons/tailwindcss.svg"></code>
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-
+<code><img height="20" src="/.github/icons/react.png"></code>
+<code><img height="20" src="/.github/icons/nodejs.svg"></code>
+<code><img height="20" src="/.github/icons/expressjs.png"></code>
+<code><img height="20" src="/.github/icons/mongodb.svg"></code>
+<code><img height="20" src="/.github/icons/materialui.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="/.github/icons/redux.svg"></code>
+<code><img height="20" src="/.github/icons/bash.svg"></code>
+<code><img height="20" src="/.github/icons/html.svg"></code>
+<code><img height="20" src="/.github/icons/css.svg"></code>
 
 
 <summary>📈 My GitHub Stats: </summary>
