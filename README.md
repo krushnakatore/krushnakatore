@@ -3,13 +3,13 @@
 <a href="https://twitter.com/Saikamaldantu">
   <img align="left" alt="Krushna Katore | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/dantu-sai-kamal/">
+<a href="https://www.linkedin.com/in/krushna-katore-733185137/">
   <img align="left" alt="Krushna Katore's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://dantusaikamal.medium.com/">
+<a href="https://medium.com/@krushnakatore88">
   <img align="left" alt="Krushna Katore's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
-<a href="https://www.instagram.com/sai_kamal7//">
+<a href="https://www.instagram.com/krushnakatore/">
   <img align="left" alt="Krushna Katore's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
@@ -21,7 +21,7 @@
 Hi, I'm [Krushna Katore](https://www.linkedin.com/in/krushna-katore-733185137/), a Full Stack Developer 🚀 from Pune, India. 
 Currently a student contributing to various open-sourced projects and working on quite a few personal projects. Also part of multiple start-up companies aiming high 🌟
 
-I'm interested in Web Development, Mobile App Development, Machine learning and Data Science.
+I'm interested in Front Web Development,Back Web Devlopment and Data Structure and Algorithms.
 
 Beside programming, I got a penchant for writing!
 
@@ -51,7 +51,7 @@ Check out my Portfolio at {}
 <summary>📈 My GitHub Stats: </summary>
 <br>
 <br>
-<p align="left"> <img align="left" alt="Sai kamal's profile stats" src="https://github-readme-stats.vercel.app/api?username=dantusaikamal&show_icons=true&theme=gotham" alt="dantusaikamal" />
+<p align="left"> <img align="left" alt="Krushna Katore's profile stats" src="https://github-readme-stats.vercel.app/api?username=dantusaikamal&show_icons=true&theme=gotham" alt="krushnakatore" />
 
 <br>
   
