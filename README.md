@@ -24,7 +24,7 @@ Beside programming, I got a penchant for writing!
 
 Check out my Portfolio at {}
 
-  <img align="right" alt="GIF" src="https://github.com/krushnakatore/krushnakatore/blob/main/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/krushnakatore/krushnakatore/main/code%20(1).gif" width="500" height="320" />
   
 **Talking about Personal Stuffs:**
 
