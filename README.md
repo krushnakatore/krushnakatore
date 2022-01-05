@@ -55,4 +55,4 @@ Check out my Portfolio at {}
 
 <br>
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dantusaikamal&layout=compact)](https://github.com/dantusaikamal/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krushnakatore&layout=compact)](https://github.com/krushnakatore/github-readme-stats)
