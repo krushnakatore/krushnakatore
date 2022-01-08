@@ -15,8 +15,8 @@
 
 <br />
 
-Hi, I'm [Krushna Katore](https://www.linkedin.com/in/krushna-katore-733185137/), a Full Stack Developer 🚀 from Pune, India. 
-Currently a student contributing to various open-sourced projects and working on quite a few personal projects. Also part of multiple start-up companies aiming high 🌟
+Hi, I'm [Krushna Katore](https://www.linkedin.com/in/krushna-katore-733185137/), a Full Stack Web Developer 🚀 from Pune, India. 
+Currently a student at Masai School Banglore,Karnataka and working on quite a few personal projects.
 
 I'm interested in Front Web Development,Back Web Devlopment and Data Structure and Algorithms.
 
