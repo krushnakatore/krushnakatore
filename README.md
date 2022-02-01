@@ -33,20 +33,40 @@ Check out my Portfolio at https://krushna-katore-pied-tau.vercel.app/
 - 📫 How to reach me: [@krushnakatore](https://www.linkedin.com/in/krushna-katore-733185137/);
 - 📝[Resume](https://drive.google.com/file/d/1mX7yRObKcT-nZA7H-fJURUNqyL7r2JsY/view?usp=sharing)
 
-**Languages and Tools:**  
+## Technologies I have used
 
-<code><img height="20" src="https://raw.githubusercontent.com/krushnakatore/krushnakatore/main/Bootstrap_logo.svg.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/krushnakatore/krushnakatore/main/Tailwind_CSS_Logo.svg.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/krushnakatore/krushnakatore/main/csslogo.png"></code>
+<table >
+	<tr align="center">
+		<td>
+			<img src="/.github/icons/typescript.svg" width="60"/>
+		</td>
+		<td >
+			<img src="/.github/icons/react.png" width="60"/>
+		</td>
+		<td >
+			<img src="/.github/icons/nodejs.svg" width="60"/>
+		</td>
+		<td >
+			<img src="/.github/icons/nextjs.svg" width="60"/>
+		</td>
+		<td >
+			<img src="/.github/icons/expressjs.png" width="60"/>
+		</td>
+		<td>
+			<img src="/.github/icons/graphql.svg" width="60"/>
+		</td>
+    </tr>
+    <tr align="center">
+    	<td>TypeScript</td>
+    	<td>React</td>
+    	<td>Node.js</td>
+    	<td>Next.js</td>
+    	<td>Express.js</td>
+			<td>GraphQL</td>
+    </tr>
 
-<code><img height="20" src="https://raw.githubusercontent.com/krushnakatore/krushnakatore/main/express-logo.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/krushnakatore/krushnakatore/main/htmllogo.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/krushnakatore/krushnakatore/main/mongoDBlogo.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/krushnakatore/krushnakatore/main/npmlogo.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/krushnakatore/krushnakatore/main/reduxlogo.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+</table>
+<table >
 
 
 <summary>📈 My GitHub Stats: </summary>
