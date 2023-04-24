@@ -56,6 +56,8 @@ Check out my Portfolio at https://krushna-katore-pied-tau.vercel.app/
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Antd](https://img.shields.io/badge/Antd-38B2AC?style=for-the-badge&logo=antd-css&logoColor=white)
+
 
 
 ### 🧑🏻‍💻 Tools & Platform
