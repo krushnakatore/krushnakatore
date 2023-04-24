@@ -16,7 +16,7 @@
 <br />
 
 Hi, I'm [Krushna Katore](https://www.linkedin.com/in/krushna-katore-733185137/), a Full Stack Web Developer 🚀 from Pune, India. 
-Currently a student at Masai School Banglore,Karnataka and working on quite a few personal projects.
+Currently working in the Humanitus Pvt. Ltd. as a Full Stack Developer and working on quite a few personal projects.
 
 I'm interested in Front Web Development,Back Web Devlopment and Data Structure and Algorithms.
 
@@ -31,7 +31,7 @@ Check out my Portfolio at https://krushna-katore-pied-tau.vercel.app/
 - 💻 I’m currently working on multiple projects :smile:;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@krushnakatore](https://www.linkedin.com/in/krushna-katore-733185137/);
-- 📝[Resume](https://drive.google.com/file/d/1mX7yRObKcT-nZA7H-fJURUNqyL7r2JsY/view?usp=sharing)
+- 📝[Resume](https://drive.google.com/file/d/1yn8fguAQUzgIQE4iCZ2FDGiW2PVXuiWB/view)
 
 ## ⚡ Tech Stack
 
