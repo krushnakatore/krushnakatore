@@ -11,7 +11,7 @@
 </a>
 
 
-![](https://visitor-badge.glitch.me/badge?page_id=krushnakatore.krushnakatore)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=krushnakatore&label=Profile%20views&color=0e75b6&style=flat" alt="krushnakatore" /> </p>
 
 <br />
 
