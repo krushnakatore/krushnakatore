@@ -1,13 +1,13 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <a href="https://www.linkedin.com/in/krushna-katore-733185137/">
-  <img align="left" alt="Krushna Katore's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Krushna Katore's LinkedIn" width="22px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />
 </a>
-<a href="https://medium.com/@krushnakatore88">
-  <img align="left" alt="Krushna Katore's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+<a href=https://twitter.com/KrushnaKatore2">
+  <img align="left" alt="Krushna Katore's Twitter" width="22px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />
 </a>
 <a href="https://www.instagram.com/krushnakatore/">
-  <img align="left" alt="Krushna Katore's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Krushna Katore's Instagram" width="22px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />
 </a>
 
 
