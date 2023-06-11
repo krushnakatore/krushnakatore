@@ -16,7 +16,7 @@
 <br />
 
 Hi, I'm [Krushna Katore](https://www.linkedin.com/in/krushna-katore-733185137/), a Full Stack Web Developer 🚀 from Pune, India. 
-Currently working in the Humanitus Pvt. Ltd. as a Full Stack Developer and working on quite a few personal projects.
+Currently working in the Calfus Ind. Pvt. Ltd. as a Full Stack Developer and working on quite a few personal projects.
 
 I'm interested in Front Web Development,Back Web Devlopment and Data Structure and Algorithms.
 
