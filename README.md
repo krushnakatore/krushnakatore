@@ -31,7 +31,7 @@ Check out my Portfolio at https://krushna-katore-pied-tau.vercel.app/
 - 💻 I’m currently working on multiple projects :smile:;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@krushnakatore](https://www.linkedin.com/in/krushna-katore-8101942b5);
-- 📝[Resume](https://drive.google.com/file/d/1RmhOk3Zyd4UlJe9ilW5Ch-5UXcZ5JH6l/view)
+- 📝[Resume](https://drive.google.com/file/d/1YGTOtejAC87bUZNbKlWe8KtefxOPW7WF/view)
 
 ## ⚡ Tech Stack
 
