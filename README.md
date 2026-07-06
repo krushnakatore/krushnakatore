@@ -15,7 +15,7 @@
 
 <br />
 
-Hi, I'm [Krushna Katore](https://www.linkedin.com/in/krushna-katore-733185137/), a Full Stack Web Developer 🚀 from Pune, India. 
+Hi, I'm [Krushna Katore](https://www.linkedin.com/in/krushna-katore-0915a0358/), a Full Stack Web Developer 🚀 from Pune, India. 
 Currently working in the Calfus Ind. Pvt. Ltd. as a Full Stack Developer and working on quite a few personal projects.
 
 I'm interested in Front Web Development,Back Web Devlopment and Data Structure and Algorithms.
@@ -31,7 +31,7 @@ Check out my Portfolio at [Portfolio](https://krushna-katore-portfolio.vercel.ap
 - 💻 I’m currently working on multiple projects :smile:;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@krushnakatore](https://www.linkedin.com/in/krushna-katore-8101942b5);
-- 📝[Resume](https://drive.google.com/file/d/1IWVj-QwFiS4yoWE7sMTocVxkJdij8d22/view?usp=sharing)
+- 📝[Resume](https://drive.google.com/file/d/1hjwCeg57PBqeIq-8mJ1vHwMSQOdWplvG/view?usp=sharing)
 
 ## ⚡ Tech Stack
 
