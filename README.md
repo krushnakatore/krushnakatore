@@ -31,7 +31,7 @@ Check out my Portfolio at [Portfolio](https://krushna-katore-portfolio.vercel.ap
 - 💻 I’m currently working on multiple projects :smile:;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@krushnakatore](https://www.linkedin.com/in/krushna-katore-8101942b5);
-- 📝[Resume](https://drive.google.com/file/d/12KUd3he2bY_NSz83GOIP4sAzx8pwNXdd/view?usp=sharing)
+- 📝[Resume](https://drive.google.com/file/d/1EspINIMYNAMDdANr1b5-k_pSe3QVM0hO/view?usp=sharing)
 
 ## ⚡ Tech Stack
 
@@ -88,4 +88,3 @@ Check out my Portfolio at [Portfolio](https://krushna-katore-portfolio.vercel.ap
 
 <br>
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krushnakatore&layout=compact)](https://github.com/krushnakatore/github-readme-stats)
