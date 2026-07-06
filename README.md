@@ -81,10 +81,4 @@ Check out my Portfolio at [Portfolio](https://krushna-katore-portfolio.vercel.ap
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 
 
-<summary>📈 My GitHub Stats: </summary>
-<br>
-<br>
-<p align="left"> <img align="left" alt="Krushna Katore's profile stats" src="https://github-readme-stats.vercel.app/api?username=krushnakatore&show_icons=true&theme=gotham" alt="krushnakatore" />
-
-<br>
   
