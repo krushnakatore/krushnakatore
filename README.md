@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=krushnakatore&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://hits.sh/github.com/krushnakatore.svg?style=for-the-badge&label=Profile%20views&color=22d3ee&labelColor=1f2937" alt="Profile views" />
 </p>
 
 ---
